@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shaun.
+- 👋 Hi, I’m Dilshan.
 - 👀 I’m interested in blockchain and web dev.
 - 🌱 I’m currently learning computer science.
 - 💞️ I’m looking to collaborate on web development projects.
